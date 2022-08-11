@@ -1,4 +1,4 @@
-# Personal-Project - Calculator-(Root Solving, Matrix Oerations, Unit Converstion)
+# Personal-Project - Calculator (Root Solving, Matrix Oerations, Unit Converstion)
 
 Calculator:
 Performs basic arithmetic operations such as addition, subrtraction, multiplication, and division.
